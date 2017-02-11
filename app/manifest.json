@@ -1,8 +1,9 @@
 {
     "manifest_version": 2,
-    "name": "DMSAddToCal",
+    "name": "Add DallasMakerSpace event to Calendar",
     "description": "This extension will add a \"add to calendar\" button on the individual DMS event pages.",
     "version": "0.0.1",
+    "default_locale": "en",
     "icons": { 
         "16": "16x16.png",
         "48": "48x48.png",
