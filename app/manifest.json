@@ -1,6 +1,6 @@
 {
     "manifest_version": 2,
-    "name": "Add Dallas Makerspace event to Calendar",
+    "name": "DMSAddToCal - Add Dallas Makerspace event to Calendar",
     "description": "A little extension to add a \"add to calendar\" button on the individual http://dallasmakerspace.org/ event pages.",
     "version": "0.0.2",
     "icons": { 
