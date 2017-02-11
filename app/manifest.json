@@ -14,10 +14,10 @@
                "https://calendar.dallasmakerspace.org/events/view/*"
             ],
             "js": [
-                "moment.js","ouical.min.js","contentscript.js"
+                "moment.js","/ouical/ouical.min.js","contentscript.js"
             ],
             "css":[
-                "main.css"
+                "/ouical/main.css"
             ],
             "run_at": "document_end"
         }
